@@ -1,8 +1,6 @@
-# P1 Sistemas de Programacao
-# Henrique Yukio Murata (10792153)
-# Item 4
+# Henrique Yukio Murata
 
-p1in = open('compin2.txt','r')  # abre o arquivo compin2.txt para leitura
+p1in = open('input.txt','r')  # abre o arquivo input.txt para leitura
 p1out = open("compout.txt", "w")  # abre arquivo compout.txt para escrita
 
 # convete de string em formato binario para hexadecimal
